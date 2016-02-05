@@ -1,3 +1,9 @@
+## household_power_consumption.txt source file is removed in the directory.
+## If you want to test/run the R files, download the file on this link
+## https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+## When done downloading, paste it to the directory where png and R files are located.
+
+
 ## Introduction
 
 This assignment uses data from
